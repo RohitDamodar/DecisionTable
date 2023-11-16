@@ -1,5 +1,7 @@
 # Decision Table Code
-@Author Rohit Damodar (drohit@umich.edu)
+##Author 
+
+[Rohit Damodar](drohit@umich.edu)
 
 ## Overview
 
